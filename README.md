@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/verifa/sbom-merge)](https://goreportcard.com/report/github.com/verifa/sbom-merge)
+
 # sbom-merge
 Experimental tool of to merge multiple SPDX JSON SBOMs into single a SBOM
 
